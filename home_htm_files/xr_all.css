@@ -4,6 +4,7 @@
 .xr_mvp_1 {display: none;}
 .xr_pbd {margin-left: -240px;}
 #xr_xr {width: 480px; height: 1878px}
+.xr_page0 {width: 480px; top: 0px}
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
 .xr_mvp_3 {display: none;}
@@ -11,6 +12,7 @@
 .xr_mvp_1 {display: none;}
 .xr_pbd {margin-left: -320px;}
 #xr_xr {width: 640px; height: 1499px}
+.xr_page0 {width: 640px; top: 0px}
 }
 @media screen and (min-width: 800px) {
 .xr_mvp_3 {display: none;}
@@ -18,6 +20,7 @@
 .xr_mvp_1 {display: block;}
 .xr_pbd {margin-left: -480px;}
 #xr_xr {width: 960px; height: 1564px}
+.xr_page0 {width: 960px; top: 0px}
 }
 @media screen and (max-width: 559px) {
 .xr_mvp_6 {display: block;}
@@ -25,6 +28,7 @@
 .xr_mvp_4 {display: none;}
 .xr_pbd {margin-left: -240px;}
 #xr_xr {width: 480px; height: 1407px}
+.xr_page1 {width: 480px; top: 2878px}
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
 .xr_mvp_6 {display: none;}
@@ -32,6 +36,7 @@
 .xr_mvp_4 {display: none;}
 .xr_pbd {margin-left: -320px;}
 #xr_xr {width: 640px; height: 1318px}
+.xr_page1 {width: 640px; top: 2499px}
 }
 @media screen and (min-width: 800px) {
 .xr_mvp_6 {display: none;}
@@ -39,6 +44,7 @@
 .xr_mvp_4 {display: block;}
 .xr_pbd {margin-left: -480px;}
 #xr_xr {width: 960px; height: 1468px}
+.xr_page1 {width: 960px; top: 2564px}
 }
 @media screen and (max-width: 559px) {
 .xr_mvp_9 {display: block;}
@@ -46,6 +52,7 @@
 .xr_mvp_7 {display: none;}
 .xr_pbd {margin-left: -240px;}
 #xr_xr {width: 480px; height: 1001px}
+.xr_page2 {width: 480px; top: 5285px}
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
 .xr_mvp_9 {display: none;}
@@ -53,6 +60,7 @@
 .xr_mvp_7 {display: none;}
 .xr_pbd {margin-left: -320px;}
 #xr_xr {width: 640px; height: 1020px}
+.xr_page2 {width: 640px; top: 4817px}
 }
 @media screen and (min-width: 800px) {
 .xr_mvp_9 {display: none;}
@@ -60,6 +68,7 @@
 .xr_mvp_7 {display: block;}
 .xr_pbd {margin-left: -480px;}
 #xr_xr {width: 960px; height: 1152px}
+.xr_page2 {width: 960px; top: 5032px}
 }
 @media screen and (max-width: 559px) {
 .xr_mvp_12 {display: block;}
@@ -67,6 +76,7 @@
 .xr_mvp_10 {display: none;}
 .xr_pbd {margin-left: -240px;}
 #xr_xr {width: 480px; height: 4658px}
+.xr_page3 {width: 480px; top: 7286px}
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
 .xr_mvp_12 {display: none;}
@@ -74,6 +84,7 @@
 .xr_mvp_10 {display: none;}
 .xr_pbd {margin-left: -320px;}
 #xr_xr {width: 640px; height: 2881px}
+.xr_page3 {width: 640px; top: 6837px}
 }
 @media screen and (min-width: 800px) {
 .xr_mvp_12 {display: none;}
@@ -81,6 +92,7 @@
 .xr_mvp_10 {display: block;}
 .xr_pbd {margin-left: -480px;}
 #xr_xr {width: 960px; height: 2200px}
+.xr_page3 {width: 960px; top: 7184px}
 }
 @media screen and (max-width: 559px) {
 .xr_mvp_15 {display: block;}
@@ -88,6 +100,7 @@
 .xr_mvp_13 {display: none;}
 .xr_pbd {margin-left: -240px;}
 #xr_xr {width: 480px; height: 6380px}
+.xr_page4 {width: 480px; top: 12944px}
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
 .xr_mvp_15 {display: none;}
@@ -95,6 +108,7 @@
 .xr_mvp_13 {display: none;}
 .xr_pbd {margin-left: -320px;}
 #xr_xr {width: 640px; height: 3042px}
+.xr_page4 {width: 640px; top: 10718px}
 }
 @media screen and (min-width: 800px) {
 .xr_mvp_15 {display: none;}
@@ -102,6 +116,7 @@
 .xr_mvp_13 {display: block;}
 .xr_pbd {margin-left: -480px;}
 #xr_xr {width: 960px; height: 3078px}
+.xr_page4 {width: 960px; top: 10384px}
 }
 @media screen and (max-width: 559px) {
 .xr_mvp_18 {display: block;}
@@ -109,6 +124,7 @@
 .xr_mvp_16 {display: none;}
 .xr_pbd {margin-left: -240px;}
 #xr_xr {width: 480px; height: 1006px}
+.xr_page5 {width: 480px; top: 20324px}
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
 .xr_mvp_18 {display: none;}
@@ -116,6 +132,7 @@
 .xr_mvp_16 {display: none;}
 .xr_pbd {margin-left: -320px;}
 #xr_xr {width: 640px; height: 1057px}
+.xr_page5 {width: 640px; top: 14760px}
 }
 @media screen and (min-width: 800px) {
 .xr_mvp_18 {display: none;}
@@ -123,4 +140,5 @@
 .xr_mvp_16 {display: block;}
 .xr_pbd {margin-left: -480px;}
 #xr_xr {width: 960px; height: 1134px}
+.xr_page5 {width: 960px; top: 14462px}
 }

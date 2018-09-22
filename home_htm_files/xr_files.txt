@@ -1,22 +1,5 @@
 home_htm_files
 home.htm
-home.htm
-home.htm
-upcoming events.htm
-upcoming events.htm
-upcoming events.htm
-media.htm
-media.htm
-media.htm
-officers.htm
-officers.htm
-officers.htm
-peer mentors.htm
-peer mentors.htm
-peer mentors.htm
-resources.htm
-resources.htm
-resources.htm
 sitemap.xml
 robots.txt
 home_htm_files/218.png

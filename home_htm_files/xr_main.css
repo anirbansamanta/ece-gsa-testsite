@@ -264,5 +264,7 @@ body {text-align:center;}
 #xr_nb69 .xr_nb2 {transition: visibility 300ms;}
 }
 @media print {
+ .xr_app {position:relative; top:0px; page-break-after: always; display: block !important; visibility: visible !important;}
+ .xr_apb {display:none;}
  .xr_mvpo {display:none;}
 }
